@@ -1,9 +1,9 @@
 document.addEventListener('DOMContentLoaded', () => {
   const appsList = [
     {
-      name: "! Request A Game [UPDATED]",
-      link: "https://forms.gle/94fJ9yAXQCgaXTrz6",
-      image: "/images/icons/request.webp",
+      name: "College Retro Bowl",
+      link: "https://pizzatower.io/retro-bowl-college/",
+      image: "/images/icons/bowl.jpeg",
       categories: ['all'],
       error: false
     },
