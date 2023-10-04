@@ -8,9 +8,16 @@ document.addEventListener('DOMContentLoaded', () => {
       error: false
     },
     {
+      name: "FNAF World",
+      link: "https://gamejolt.com/games/fnaf-world/124921",
+      image: "/images/icons/request.webp",
+      categories: ['all'],
+      error: false
+    },
+    {
       name: "College Retro Bowl",
       link: "https://pizzatower.io/retro-bowl-college/",
-      image: "/images/icons/bowl.jpeg",
+      image: "/images/icons/download.jfif",
       categories: ['all'],
       error: false
     },
