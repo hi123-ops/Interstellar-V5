@@ -8,6 +8,13 @@ document.addEventListener('DOMContentLoaded', () => {
       error: false
     },
     {
+      name: "Anime Flix",
+      link: "https://anime.adgstudios.co.za",
+      image: "/images/icons/apps/Animeflix.png",
+      categories: ["all", "media"],
+      error: false
+    },
+    {
       name: "BuzzFeed Quizzes",
       link: "https://buzzfeed.com/quizzes",
       image: "/images/icons/apps/buzzfeed.png",
