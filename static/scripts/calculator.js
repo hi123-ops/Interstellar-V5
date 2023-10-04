@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', () => {
     {
       name: "FNAF World",
       link: "www.silvergames.com/en/fnaf-world",
-      image: "/images/icons/download.jfif",
+      image: "/images/icons/FNAF World.jfif",
       categories: ['all'],
       error: false
     },
