@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', () => {
     {
       name: "FNAF World",
       link: "https://gamejolt.com/games/fnaf-world/124921",
-      image: "/images/icons/request.webp",
+      image: "/images/icons/download.jfif",
       categories: ['all'],
       error: false
     },
