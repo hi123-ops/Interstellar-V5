@@ -7,6 +7,13 @@ document.addEventListener('DOMContentLoaded', () => {
       categories: ["all", "media"],
       error: false
     },
+      {
+      name: "Animeflix",
+      link: "https://anime.adgstudios.co.za/",
+      image: "/images/icons/apps/Animeflix.png",
+      categories: ["all", "media"],
+      error: false
+    },
     {
       name: "Anime Flix",
       link: "https://anime.adgstudios.co.za",
