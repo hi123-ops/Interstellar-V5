@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
       categories: ["all", "media"],
       error: false
     },
-      {
+    {
       name: "Animeflix",
       link: "https://anime.adgstudios.co.za/",
       image: "/images/icons/apps/Animeflix.png",
@@ -15,9 +15,9 @@ document.addEventListener('DOMContentLoaded', () => {
       error: false
     },
     {
-      name: "Anime Flix",
-      link: "https://anime.adgstudios.co.za",
-      image: "/images/icons/apps/Animeflix.png",
+      name: "Youtube Music",
+      link: "https://music.youtube.com",
+      image: "/images/icons/Youtube-Music.jpg",
       categories: ["all", "media"],
       error: false
     },
