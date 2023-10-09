@@ -359,7 +359,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: "GBA Emulator",
-      link: "https://ds.44670.org/gba/",
+      link: "https://gba.44670.org/",
       image: "/images/icons/gba.jpg",
       categories: ['all,', 'emu'],
       error: false
